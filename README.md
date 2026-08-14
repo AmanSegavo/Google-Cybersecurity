@@ -24,9 +24,11 @@ Google-Cybersecurity/
 ├── 📂 docs/                                     # Dokumen pendukung & contekan (cheat sheet)
 │   ├── Create a cybersecurity portfolio.pdf
 │   └── link.md
-└── 📂 other-certifications/                     # Sertifikat di luar program Google (IBM, AWS, dll.)
+└── 📂 other-certifications/                     # Sertifikat di luar program Google (IBM, AWS, Dicoding)
     ├── AWS - AI Academy Certificate.png
-    └── IBM - What is Data Science.pdf
+    ├── IBM - What is Data Science.pdf
+    ├── Dicoding - Belajar Dasar Cloud dan Gen AI di AWS.pdf
+    └── Dicoding - Spec-Driven Development dengan Kiro.pdf
 ```
 
 ---
@@ -82,6 +84,8 @@ Berikut adalah daftar sertifikat dari Google yang telah diselesaikan beserta tau
 Arsip sertifikat di luar Google dipisahkan secara terstruktur di folder [`other-certifications/`](./other-certifications/):
 * 📜 [IBM - What is Data Science](./other-certifications/IBM%20-%20What%20is%20Data%20Science.pdf) — [Verifikasi Coursera (SEV06F1TUCAD)](https://coursera.org/verify/SEV06F1TUCAD)
 * 📜 [AWS - AI Academy Certificate](./other-certifications/AWS%20-%20AI%20Academy%20Certificate.png)
+* 📜 [Dicoding - Belajar Dasar Cloud dan Gen AI di AWS](./other-certifications/Dicoding%20-%20Belajar%20Dasar%20Cloud%20dan%20Gen%20AI%20di%20AWS.pdf) — [Verifikasi Dicoding (EYX4Q447JPDL)](https://dicoding.com/certificates/EYX4Q447JPDL)
+* 📜 [Dicoding - Spec-Driven Development dengan Kiro](./other-certifications/Dicoding%20-%20Spec-Driven%20Development%20dengan%20Kiro.pdf) — [Verifikasi Dicoding (N9ZONWNG8XG5)](https://dicoding.com/certificates/N9ZONWNG8XG5)
 
 ---
 
