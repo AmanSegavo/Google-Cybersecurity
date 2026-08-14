@@ -20,7 +20,12 @@ Google-Cybersecurity/
 │   ├── Google - Stay Ahead of the AI Curve.pdf
 │   └── Google DEX - Pengenalan Dasar AI.pdf
 ├── 📂 portfolio-activities/                     # Laporan aktivitas portofolio praktikum
-│   └── Menggunakan perintah Linux untuk mengelola perizinan file.md
+│   ├── Melakukan audit keamanan.md
+│   ├── Menggunakan kerangka kerja keamanan siber NIST untuk merespons insiden keamanan.md
+│   ├── Menganalisis serangan jaringan.md
+│   ├── Analisis pengerasan jaringan.md
+│   ├── Menggunakan perintah Linux untuk mengelola perizinan file.md
+│   └── membuat portfolio keamanan cyber.md
 ├── 📂 docs/                                     # Dokumen pendukung & contekan (cheat sheet)
 │   ├── Create a cybersecurity portfolio.pdf
 │   └── link.md
@@ -47,35 +52,23 @@ Berikut adalah daftar sertifikat dari Google yang telah diselesaikan beserta tau
 
 ---
 
-## 💼 Aktivitas Portofolio (Portfolio Activities)
+## 💼 Aktivitas Portofolio Lengkap (Portfolio Activities)
 
-### 📄 [Aktivitas: Menggunakan Perintah Linux untuk Mengelola Perizinan File](./portfolio-activities/Menggunakan%20perintah%20Linux%20untuk%20mengelola%20perizinan%20file.md)
-* **Modul:** *Tools of the Trade: Linux and SQL* (Course 4)
-* **Topik:** Audit keamanan file, analisis string izin 10-karakter, remediasi hak akses dengan perintah `chmod`, dan penerapan prinsip *Least Privilege*.
-* **Ringkasan Perintah Inti:**
-  ```bash
-  # Memeriksa file termasuk file tersembunyi
-  ls -la /home/researcher2/projects
-
-  # Mencabut izin tulis untuk pengguna lain (Others)
-  chmod o-w project_k.txt
-
-  # Menghapus izin eksekusi dan membatasi izin tulis others
-  chmod u-x,g-x,o-wx project_r.txt
-
-  # Mengamankan file tersembunyi (User: rw, Group: r, Other: none)
-  chmod 640 .project_x.txt
-
-  # Mengunci folder rahasia hanya untuk pemilik
-  chmod 700 drafts
-  ```
+| No | Nama Aktivitas Portofolio | Modul Kursus | Topik & Fokus Utama | Dokumen Laporan |
+|:---:|:---|:---:|:---|:---:|
+| **1** | **Audit Keamanan & Kepatuhan (Botium Toys)** | Course 2 | Evaluasi kontrol administratif, teknis, fisik, dan kepatuhan PCI DSS, GDPR, SOC 2. | [Buka Laporan](./portfolio-activities/Melakukan%20audit%20keamanan.md) |
+| **2** | **Respons Insiden dengan NIST CSF** | Course 2 / 3 | Investigasi DDoS ICMP Flood menggunakan 5 pilar NIST (*Identify, Protect, Detect, Respond, Recover*). | [Buka Laporan](./portfolio-activities/Menggunakan%20kerangka%20kerja%20keamanan%20siber%20NIST%20untuk%20merespons%20insiden%20keamanan.md) |
+| **3** | **Analisis Serangan Jaringan (TCP SYN Flood)** | Course 3 | Analisis log *tcpdump*, investigasi *Three-Way Handshake*, dan mitigasi *Connection Timeout*. | [Buka Laporan](./portfolio-activities/Menganalisis%20serangan%20jaringan.md) |
+| **4** | **Pengerasan Jaringan & Penilaian Risiko** | Course 3 | Mitigasi kerentanan database usang, pembatasan *password sharing*, & pembaruan SOP keamanan. | [Buka Laporan](./portfolio-activities/Analisis%20pengerasan%20jaringan.md) |
+| **5** | **Pengelolaan Perizinan File Linux (`chmod`)** | Course 4 | Audit string izin 10-karakter, proteksi file tersembunyi, dan penerapan *Principle of Least Privilege*. | [Buka Laporan](./portfolio-activities/Menggunakan%20perintah%20Linux%20untuk%20mengelola%20perizinan%20file.md) |
+| **6** | **Panduan Penyusunan Portofolio Profesional** | General | Standar hosting portofolio Git/GitHub, etika penanganan data, dan presentasi teknis. | [Buka Panduan](./portfolio-activities/membuat%20portfolio%20keamanan%20cyber.md) |
 
 ---
 
 ## 📚 Dokumen Pendukung & Referensi
 
 * 📖 **[Referensi & Cheat Sheet Perizinan Linux](./docs/link.md)**: Panduan notasi simbolik, notasi oktal numerik, dan manual Linux.
-* 📑 **[Create a Cybersecurity Portfolio Guide](./docs/Create%20a%20cybersecurity%20portfolio.pdf)**: Panduan penyusunan portofolio profesional Google Cybersecurity.
+* 📑 **[Create a Cybersecurity Portfolio Guide](./docs/Create%20a%20cybersecurity%20portfolio.pdf)**: Panduan resmi penyusunan portofolio profesional Google Cybersecurity.
 
 ---
 
