@@ -92,4 +92,5 @@ Arsip sertifikat di luar Google dipisahkan secara terstruktur di folder [`other-
 ## 👤 Profil Pembuat
 * **Nama:** Abdurrahman Assegaf
 * **GitHub:** [@AmanSegavo](https://github.com/AmanSegavo)
+* **Instagram:** [@segafaman](https://www.instagram.com/segafaman/)
 * **Program:** Google Cybersecurity Professional Certificate
