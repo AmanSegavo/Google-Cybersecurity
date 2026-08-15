@@ -25,6 +25,7 @@ Google-Cybersecurity/
 │   ├── Menganalisis serangan jaringan.md
 │   ├── Analisis pengerasan jaringan.md
 │   ├── Menggunakan perintah Linux untuk mengelola perizinan file.md
+│   ├── Menerapkan filter ke kueri SQL.md
 │   └── membuat portfolio keamanan cyber.md
 ├── 📂 docs/                                     # Dokumen pendukung & contekan (cheat sheet)
 │   ├── Create a cybersecurity portfolio.pdf
@@ -61,7 +62,8 @@ Berikut adalah daftar sertifikat dari Google yang telah diselesaikan beserta tau
 | **3** | **Analisis Serangan Jaringan (TCP SYN Flood)** | Course 3 | Analisis log *tcpdump*, investigasi *Three-Way Handshake*, dan mitigasi *Connection Timeout*. | [Buka Laporan](./portfolio-activities/Menganalisis%20serangan%20jaringan.md) |
 | **4** | **Pengerasan Jaringan & Penilaian Risiko** | Course 3 | Mitigasi kerentanan database usang, pembatasan *password sharing*, & pembaruan SOP keamanan. | [Buka Laporan](./portfolio-activities/Analisis%20pengerasan%20jaringan.md) |
 | **5** | **Pengelolaan Perizinan File Linux (`chmod`)** | Course 4 | Audit string izin 10-karakter, proteksi file tersembunyi, dan penerapan *Principle of Least Privilege*. | [Buka Laporan](./portfolio-activities/Menggunakan%20perintah%20Linux%20untuk%20mengelola%20perizinan%20file.md) |
-| **6** | **Panduan Penyusunan Portofolio Profesional** | General | Standar hosting portofolio Git/GitHub, etika penanganan data, dan presentasi teknis. | [Buka Panduan](./portfolio-activities/membuat%20portfolio%20keamanan%20cyber.md) |
+| **6** | **Menerapkan Filter ke Kueri SQL** | Course 4 | Investigasi login gagal setelah jam kerja, filter tanggal & wilayah (`AND`, `OR`, `NOT`, `LIKE`), dan manajemen patch mesin. | [Buka Laporan](./portfolio-activities/Menerapkan%20filter%20ke%20kueri%20SQL.md) |
+| **7** | **Panduan Penyusunan Portofolio Profesional** | General | Standar hosting portofolio Git/GitHub, etika penanganan data, dan presentasi teknis. | [Buka Panduan](./portfolio-activities/membuat%20portfolio%20keamanan%20cyber.md) |
 
 ---
 
