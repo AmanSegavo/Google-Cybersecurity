@@ -17,6 +17,7 @@ Google-Cybersecurity/
 │   ├── Course 1 - Foundations of Cybersecurity (Google).pdf
 │   ├── Course 2 - Play It Safe - Manage Security Risks (Google).pdf
 │   ├── Course 3 - Connect and Protect - Networks and Network Security (Google).pdf
+│   ├── Course 4 - Tools of the Trade - Linux and SQL (Google).pdf
 │   ├── Google - Stay Ahead of the AI Curve.pdf
 │   └── Google DEX - Pengenalan Dasar AI.pdf
 ├── 📂 portfolio-activities/                     # Laporan aktivitas portofolio praktikum
@@ -48,8 +49,9 @@ Berikut adalah daftar sertifikat dari Google yang telah diselesaikan beserta tau
 | **1** | **Foundations of Cybersecurity** *(Course 1)* | Google | [Lihat PDF](./certificates/Course%201%20-%20Foundations%20of%20Cybersecurity%20(Google).pdf) | [Verifikasi Coursera (NEX8JMGB7VC8)](https://coursera.org/verify/NEX8JMGB7VC8) |
 | **2** | **Play It Safe: Manage Security Risks** *(Course 2)* | Google | [Lihat PDF](./certificates/Course%202%20-%20Play%20It%20Safe%20-%20Manage%20Security%20Risks%20(Google).pdf) | [Verifikasi Coursera (ILX81GZNA3PC)](https://coursera.org/verify/ILX81GZNA3PC) |
 | **3** | **Connect and Protect: Networks and Network Security** *(Course 3)* | Google | [Lihat PDF](./certificates/Course%203%20-%20Connect%20and%20Protect%20-%20Networks%20and%20Network%20Security%20(Google).pdf) | [Verifikasi Coursera (KD1HL280OQ03)](https://coursera.org/verify/KD1HL280OQ03) |
-| **4** | **Stay Ahead of the AI Curve** | Google | [Lihat PDF](./certificates/Google%20-%20Stay%20Ahead%20of%20the%20AI%20Curve.pdf) | [Verifikasi Coursera (85LVQWY4AHMF)](https://coursera.org/verify/85LVQWY4AHMF) |
-| **5** | **Pengenalan Dasar Artificial Intelligence** | Google (DEX) | [Lihat PDF](./certificates/Google%20DEX%20-%20Pengenalan%20Dasar%20AI.pdf) | *Sertifikat Program DEX Google Nasional* |
+| **4** | **Tools of the Trade: Linux and SQL** *(Course 4)* | Google | [Lihat PDF](./certificates/Course%204%20-%20Tools%20of%20the%20Trade%20-%20Linux%20and%20SQL%20(Google).pdf) | [Verifikasi Coursera (AMUS1WDDC9HK)](https://coursera.org/verify/AMUS1WDDC9HK) |
+| **5** | **Stay Ahead of the AI Curve** | Google | [Lihat PDF](./certificates/Google%20-%20Stay%20Ahead%20of%20the%20AI%20Curve.pdf) | [Verifikasi Coursera (85LVQWY4AHMF)](https://coursera.org/verify/85LVQWY4AHMF) |
+| **6** | **Pengenalan Dasar Artificial Intelligence** | Google (DEX) | [Lihat PDF](./certificates/Google%20DEX%20-%20Pengenalan%20Dasar%20AI.pdf) | *Sertifikat Program DEX Google Nasional* |
 
 ---
 
