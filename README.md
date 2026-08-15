@@ -27,8 +27,10 @@ Google-Cybersecurity/
 │   ├── Analisis pengerasan jaringan.md
 │   ├── Menggunakan perintah Linux untuk mengelola perizinan file.md
 │   ├── Menerapkan filter ke kueri SQL.md
+│   ├── Mengklasifikasikan aset jaringan kantor rumahan.md
 │   └── membuat portfolio keamanan cyber.md
 ├── 📂 docs/                                     # Dokumen pendukung & contekan (cheat sheet)
+│   ├── Home-asset-inventory.xlsx
 │   ├── Create a cybersecurity portfolio.pdf
 │   └── link.md
 └── 📂 other-certifications/                     # Sertifikat di luar program Google (IBM, AWS, Dicoding)
@@ -65,12 +67,14 @@ Berikut adalah daftar sertifikat dari Google yang telah diselesaikan beserta tau
 | **4** | **Pengerasan Jaringan & Penilaian Risiko** | Course 3 | Mitigasi kerentanan database usang, pembatasan *password sharing*, & pembaruan SOP keamanan. | [Buka Laporan](./portfolio-activities/Analisis%20pengerasan%20jaringan.md) |
 | **5** | **Pengelolaan Perizinan File Linux (`chmod`)** | Course 4 | Audit string izin 10-karakter, proteksi file tersembunyi, dan penerapan *Principle of Least Privilege*. | [Buka Laporan](./portfolio-activities/Menggunakan%20perintah%20Linux%20untuk%20mengelola%20perizinan%20file.md) |
 | **6** | **Menerapkan Filter ke Kueri SQL** | Course 4 | Investigasi login gagal setelah jam kerja, filter tanggal & wilayah (`AND`, `OR`, `NOT`, `LIKE`), dan manajemen patch mesin. | [Buka Laporan](./portfolio-activities/Menerapkan%20filter%20ke%20kueri%20SQL.md) |
-| **7** | **Panduan Penyusunan Portofolio Profesional** | General | Standar hosting portofolio Git/GitHub, etika penanganan data, dan presentasi teknis. | [Buka Panduan](./portfolio-activities/membuat%20portfolio%20keamanan%20cyber.md) |
+| **7** | **Klasifikasi Aset Jaringan Kantor Rumahan** | Course 5 | Inventarisasi aset jaringan, pemetaan kepemilikan & koneksi, serta klasifikasi sensitivitas data (*Restricted, Confidential, Internal-only*). | [Buka Laporan](./portfolio-activities/Mengklasifikasikan%20aset%20jaringan%20kantor%20rumahan.md) |
+| **8** | **Panduan Penyusunan Portofolio Profesional** | General | Standar hosting portofolio Git/GitHub, etika penanganan data, dan presentasi teknis. | [Buka Panduan](./portfolio-activities/membuat%20portfolio%20keamanan%20cyber.md) |
 
 ---
 
 ## 📚 Dokumen Pendukung & Referensi
 
+* 📊 **[Home Asset Inventory Spreadsheet](./docs/Home-asset-inventory.xlsx)**: Tabel lembar kerja Excel inventarisasi aset perangkat jaringan kantor rumahan.
 * 📖 **[Referensi & Cheat Sheet Perizinan Linux](./docs/link.md)**: Panduan notasi simbolik, notasi oktal numerik, dan manual Linux.
 * 📑 **[Create a Cybersecurity Portfolio Guide](./docs/Create%20a%20cybersecurity%20portfolio.pdf)**: Panduan resmi penyusunan portofolio profesional Google Cybersecurity.
 
