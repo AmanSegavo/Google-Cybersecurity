@@ -38,8 +38,10 @@ Google-Cybersecurity/
 │   │   ├── lightgbm_malware_model.pkl
 │   │   ├── confusion_matrix.png
 │   │   └── feature_importance.png
-│   └── 📂 TryHackMe - Neighbour (IDOR Vulnerability)/
-│       └── README.md                            # Laporan audit & writeup eksploitasi IDOR
+│   ├── 📂 TryHackMe - Neighbour (IDOR Vulnerability)/
+│   │   └── README.md                            # Laporan audit & writeup eksploitasi IDOR
+│   └── 📂 TryHackMe - Pickle Rick (Command Injection & Privilege Escalation)/
+│       └── README.md                            # Laporan eksploitasi web shell & eskalasi root Linux
 ├── 📂 docs/                                     # Dokumen pendukung & contekan (cheat sheet)
 │   ├── Risk-register.docx
 │   ├── Home-asset-inventory.xlsx
@@ -91,6 +93,7 @@ Berikut adalah daftar sertifikat dari Google yang telah diselesaikan beserta tau
 |:---:|:---|:---:|:---|:---:|
 | **1** | **Microsoft Malware Classification (BIG 2015)** | Machine Learning & Static Malware Analysis (LightGBM, Python, IDA Pro) | Ekstraksi 289 fitur biner (Byte Unigrams, Shannon Entropy, Opcodes, Registers). Evaluasi multi-class log loss mencapai **0.7694** dan mendeteksi 9 famili malware secara akurat. | [Buka Dokumentasi Proyek](./Praktice/Microsoft%20Malware%20Classification%20Challenge%20(BIG%202015)/README.md) |
 | **2** | **TryHackMe: Neighbour (IDOR & Broken Access Control)** | Web Application Penetration Testing (OpenVPN, Source Code Review, Parameter Tampering) | Audit keamanan web cloud "Authentication Anywhere", eksploitasi parameter tampering IDOR pada endpoint `profile.php?user=admin`, dan ekstraksi flag rahasia. | [Buka Writeup Lab](./Praktice/TryHackMe%20-%20Neighbour%20(IDOR%20Vulnerability)/README.md) |
+| **3** | **TryHackMe: Pickle Rick (Command Injection & Privilege Escalation)** | Web Security & Linux PrivEsc (Command Panel, Blacklist Bypass, Sudo Misconfiguration) | Eksploitasi web portal Rick, bypass blacklist filter perintah (`grep`), eskalasi hak akses penuh ke root (`sudo -l`), dan pengumpulan 3 bahan ramuan rahasia. | [Buka Writeup Lab](./Praktice/TryHackMe%20-%20Pickle%20Rick%20(Command%20Injection%20%26%20Privilege%20Escalation)/README.md) |
 
 ---
 
