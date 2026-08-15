@@ -29,6 +29,13 @@ Google-Cybersecurity/
 │   ├── Menerapkan filter ke kueri SQL.md
 │   ├── Mengklasifikasikan aset jaringan kantor rumahan.md
 │   └── membuat portfolio keamanan cyber.md
+├── 📂 Praktice/                                 # Proyek terapan praktikum & AI/ML Security
+│   └── 📂 Microsoft Malware Classification Challenge (BIG 2015)/
+│       ├── README.md
+│       ├── extracted_features_dataset.csv
+│       ├── lightgbm_malware_model.pkl
+│       ├── confusion_matrix.png
+│       └── feature_importance.png
 ├── 📂 docs/                                     # Dokumen pendukung & contekan (cheat sheet)
 │   ├── Home-asset-inventory.xlsx
 │   ├── Create a cybersecurity portfolio.pdf
@@ -69,6 +76,14 @@ Berikut adalah daftar sertifikat dari Google yang telah diselesaikan beserta tau
 | **6** | **Menerapkan Filter ke Kueri SQL** | Course 4 | Investigasi login gagal setelah jam kerja, filter tanggal & wilayah (`AND`, `OR`, `NOT`, `LIKE`), dan manajemen patch mesin. | [Buka Laporan](./portfolio-activities/Menerapkan%20filter%20ke%20kueri%20SQL.md) |
 | **7** | **Klasifikasi Aset Jaringan Kantor Rumahan** | Course 5 | Inventarisasi aset jaringan, pemetaan kepemilikan & koneksi, serta klasifikasi sensitivitas data (*Restricted, Confidential, Internal-only*). | [Buka Laporan](./portfolio-activities/Mengklasifikasikan%20aset%20jaringan%20kantor%20rumahan.md) |
 | **8** | **Panduan Penyusunan Portofolio Profesional** | General | Standar hosting portofolio Git/GitHub, etika penanganan data, dan presentasi teknis. | [Buka Panduan](./portfolio-activities/membuat%20portfolio%20keamanan%20cyber.md) |
+
+---
+
+## 🔬 Proyek Terapan Praktik & AI/ML Security (Hands-on Projects)
+
+| No | Nama Proyek | Domain & Teknologi | Fokus & Hasil Utama | Dokumentasi & Berkas |
+|:---:|:---|:---:|:---|:---:|
+| **1** | **Microsoft Malware Classification (BIG 2015)** | Machine Learning & Static Malware Analysis (LightGBM, Python, IDA Pro) | Ekstraksi 289 fitur biner (Byte Unigrams, Shannon Entropy, Opcodes, Registers). Evaluasi multi-class log loss mencapai **0.7694** dan mendeteksi 9 famili malware secara akurat. | [Buka Dokumentasi Proyek](./Praktice/Microsoft%20Malware%20Classification%20Challenge%20(BIG%202015)/README.md) |
 
 ---
 
