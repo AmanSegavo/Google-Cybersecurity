@@ -32,6 +32,7 @@ Google-Cybersecurity/
 ├── 📂 Praktice/                                 # Proyek terapan praktikum & AI/ML Security
 │   └── 📂 Microsoft Malware Classification Challenge (BIG 2015)/
 │       ├── README.md
+│       ├── Microsoft_Malware_Classification.ipynb
 │       ├── extracted_features_dataset.csv
 │       ├── lightgbm_malware_model.pkl
 │       ├── confusion_matrix.png
