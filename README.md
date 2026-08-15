@@ -29,6 +29,7 @@ Google-Cybersecurity/
 │   ├── Menggunakan perintah Linux untuk mengelola perizinan file.md
 │   ├── Menerapkan filter ke kueri SQL.md
 │   ├── Mengklasifikasikan aset jaringan kantor rumahan.md
+│   ├── Menganalisis kebocoran data dan menerapkan prinsip least privilege.md
 │   └── membuat portfolio keamanan cyber.md
 ├── 📂 Praktice/                                 # Proyek terapan praktikum & AI/ML Security
 │   ├── 📂 Microsoft Malware Classification Challenge (BIG 2015)/
@@ -43,6 +44,7 @@ Google-Cybersecurity/
 │   └── 📂 TryHackMe - Pickle Rick (Command Injection & Privilege Escalation)/
 │       └── README.md                            # Laporan eksploitasi web shell & eskalasi root Linux
 ├── 📂 docs/                                     # Dokumen pendukung & contekan (cheat sheet)
+│   ├── Activity-Template_-Data-leak-worksheet.docx
 │   ├── Risk-register.docx
 │   ├── Home-asset-inventory.xlsx
 │   ├── Create a cybersecurity portfolio.pdf
@@ -83,7 +85,8 @@ Berikut adalah daftar sertifikat dari Google yang telah diselesaikan beserta tau
 | **6** | **Pengelolaan Perizinan File Linux (`chmod`)** | Course 4 | Audit string izin 10-karakter, proteksi file tersembunyi, dan penerapan *Principle of Least Privilege*. | [Buka Laporan](./portfolio-activities/Menggunakan%20perintah%20Linux%20untuk%20mengelola%20perizinan%20file.md) |
 | **7** | **Menerapkan Filter ke Kueri SQL** | Course 4 | Investigasi login gagal setelah jam kerja, filter tanggal & wilayah (`AND`, `OR`, `NOT`, `LIKE`), dan manajemen patch mesin. | [Buka Laporan](./portfolio-activities/Menerapkan%20filter%20ke%20kueri%20SQL.md) |
 | **8** | **Klasifikasi Aset Jaringan Kantor Rumahan** | Course 5 | Inventarisasi aset jaringan, pemetaan kepemilikan & koneksi, serta klasifikasi sensitivitas data (*Restricted, Confidential, Internal-only*). | [Buka Laporan](./portfolio-activities/Mengklasifikasikan%20aset%20jaringan%20kantor%20rumahan.md) |
-| **9** | **Panduan Penyusunan Portofolio Profesional** | General | Standar hosting portofolio Git/GitHub, etika penanganan data, dan presentasi teknis. | [Buka Panduan](./portfolio-activities/membuat%20portfolio%20keamanan%20cyber.md) |
+| **9** | **Analisis Kebocoran Data & Hak Istimewa Terendah** | Course 5 | Investigasi kebocoran dokumen cloud di media sosial, analisis kontrol NIST SP 800-53 (AC-6), dan perbaikan izin granular. | [Buka Laporan](./portfolio-activities/Menganalisis%20kebocoran%20data%20dan%20menerapkan%20prinsip%20least%20privilege.md) |
+| **10** | **Panduan Penyusunan Portofolio Profesional** | General | Standar hosting portofolio Git/GitHub, etika penanganan data, dan presentasi teknis. | [Buka Panduan](./portfolio-activities/membuat%20portfolio%20keamanan%20cyber.md) |
 
 ---
 
