@@ -31,13 +31,15 @@ Google-Cybersecurity/
 │   ├── Mengklasifikasikan aset jaringan kantor rumahan.md
 │   └── membuat portfolio keamanan cyber.md
 ├── 📂 Praktice/                                 # Proyek terapan praktikum & AI/ML Security
-│   └── 📂 Microsoft Malware Classification Challenge (BIG 2015)/
-│       ├── README.md
-│       ├── Microsoft_Malware_Classification.ipynb
-│       ├── extracted_features_dataset.csv
-│       ├── lightgbm_malware_model.pkl
-│       ├── confusion_matrix.png
-│       └── feature_importance.png
+│   ├── 📂 Microsoft Malware Classification Challenge (BIG 2015)/
+│   │   ├── README.md
+│   │   ├── Microsoft_Malware_Classification.ipynb
+│   │   ├── extracted_features_dataset.csv
+│   │   ├── lightgbm_malware_model.pkl
+│   │   ├── confusion_matrix.png
+│   │   └── feature_importance.png
+│   └── 📂 TryHackMe - Neighbour (IDOR Vulnerability)/
+│       └── README.md                            # Laporan audit & writeup eksploitasi IDOR
 ├── 📂 docs/                                     # Dokumen pendukung & contekan (cheat sheet)
 │   ├── Risk-register.docx
 │   ├── Home-asset-inventory.xlsx
@@ -88,6 +90,7 @@ Berikut adalah daftar sertifikat dari Google yang telah diselesaikan beserta tau
 | No | Nama Proyek | Domain & Teknologi | Fokus & Hasil Utama | Dokumentasi & Berkas |
 |:---:|:---|:---:|:---|:---:|
 | **1** | **Microsoft Malware Classification (BIG 2015)** | Machine Learning & Static Malware Analysis (LightGBM, Python, IDA Pro) | Ekstraksi 289 fitur biner (Byte Unigrams, Shannon Entropy, Opcodes, Registers). Evaluasi multi-class log loss mencapai **0.7694** dan mendeteksi 9 famili malware secara akurat. | [Buka Dokumentasi Proyek](./Praktice/Microsoft%20Malware%20Classification%20Challenge%20(BIG%202015)/README.md) |
+| **2** | **TryHackMe: Neighbour (IDOR & Broken Access Control)** | Web Application Penetration Testing (OpenVPN, Source Code Review, Parameter Tampering) | Audit keamanan web cloud "Authentication Anywhere", eksploitasi parameter tampering IDOR pada endpoint `profile.php?user=admin`, dan ekstraksi flag rahasia. | [Buka Writeup Lab](./Praktice/TryHackMe%20-%20Neighbour%20(IDOR%20Vulnerability)/README.md) |
 
 ---
 
